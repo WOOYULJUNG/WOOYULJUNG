@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @WOOYULJUNG
-- 👀 I’m interested in Deeplearning & Philosophy
-- 📫 How to reach me @wooyuls_law
+정우열
 
-<!---
-WOOYULJUNG/WOOYULJUNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+대구과학고등학교 졸업
+한양대학교 재학
+육군 전역
